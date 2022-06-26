@@ -1,0 +1,28 @@
+c:\users\joaoa\source\repos\CustomCaracteres2.0\CustomCaracteres2.0\bin\Debug\CustomCaracteres2.0.exe.config
+c:\users\joaoa\source\repos\CustomCaracteres2.0\CustomCaracteres2.0\bin\Debug\CustomCaracteres2.0.exe
+c:\users\joaoa\source\repos\CustomCaracteres2.0\CustomCaracteres2.0\bin\Debug\CustomCaracteres2.0.pdb
+c:\users\joaoa\source\repos\CustomCaracteres2.0\CustomCaracteres2.0\obj\Debug\CustomCaracteres2.0.csprojAssemblyReference.cache
+c:\users\joaoa\source\repos\CustomCaracteres2.0\CustomCaracteres2.0\obj\Debug\CustomCaracteres2._0.Form1.resources
+c:\users\joaoa\source\repos\CustomCaracteres2.0\CustomCaracteres2.0\obj\Debug\CustomCaracteres2._0.Properties.Resources.resources
+c:\users\joaoa\source\repos\CustomCaracteres2.0\CustomCaracteres2.0\obj\Debug\CustomCaracteres2.0.csproj.GenerateResource.cache
+c:\users\joaoa\source\repos\CustomCaracteres2.0\CustomCaracteres2.0\obj\Debug\CustomCaracteres2.0.csproj.CoreCompileInputs.cache
+c:\users\joaoa\source\repos\CustomCaracteres2.0\CustomCaracteres2.0\obj\Debug\CustomCaracteres2.0.exe
+c:\users\joaoa\source\repos\CustomCaracteres2.0\CustomCaracteres2.0\obj\Debug\CustomCaracteres2.0.pdb
+C:\Users\JoaoA\source\repos\CustomCaracteres2.0\CustomCaracteres2.0\bin\Debug\CustomCaracteres2.0.exe.manifest
+C:\Users\JoaoA\source\repos\CustomCaracteres2.0\CustomCaracteres2.0\bin\Debug\CustomCaracteres2.0.application
+C:\Users\JoaoA\source\repos\CustomCaracteres2.0\CustomCaracteres2.0\obj\Debug\CustomCaracteres2.0.exe.manifest
+C:\Users\JoaoA\source\repos\CustomCaracteres2.0\CustomCaracteres2.0\obj\Debug\CustomCaracteres2.0.application
+D:\BACKUP Joao\meus arquivos\Escola\CC\CustomCaracteres2.0\CustomCaracteres2.0\bin\Debug\CustomCaracteres2.0.exe.config
+D:\BACKUP Joao\meus arquivos\Escola\CC\CustomCaracteres2.0\CustomCaracteres2.0\bin\Debug\CustomCaracteres2.0.exe.manifest
+D:\BACKUP Joao\meus arquivos\Escola\CC\CustomCaracteres2.0\CustomCaracteres2.0\bin\Debug\CustomCaracteres2.0.application
+D:\BACKUP Joao\meus arquivos\Escola\CC\CustomCaracteres2.0\CustomCaracteres2.0\bin\Debug\CustomCaracteres2.0.exe
+D:\BACKUP Joao\meus arquivos\Escola\CC\CustomCaracteres2.0\CustomCaracteres2.0\bin\Debug\CustomCaracteres2.0.pdb
+D:\BACKUP Joao\meus arquivos\Escola\CC\CustomCaracteres2.0\CustomCaracteres2.0\obj\Debug\CustomCaracteres2.0.csprojAssemblyReference.cache
+D:\BACKUP Joao\meus arquivos\Escola\CC\CustomCaracteres2.0\CustomCaracteres2.0\obj\Debug\CustomCaracteres2._0.Form1.resources
+D:\BACKUP Joao\meus arquivos\Escola\CC\CustomCaracteres2.0\CustomCaracteres2.0\obj\Debug\CustomCaracteres2._0.Properties.Resources.resources
+D:\BACKUP Joao\meus arquivos\Escola\CC\CustomCaracteres2.0\CustomCaracteres2.0\obj\Debug\CustomCaracteres2.0.csproj.GenerateResource.cache
+D:\BACKUP Joao\meus arquivos\Escola\CC\CustomCaracteres2.0\CustomCaracteres2.0\obj\Debug\CustomCaracteres2.0.csproj.CoreCompileInputs.cache
+D:\BACKUP Joao\meus arquivos\Escola\CC\CustomCaracteres2.0\CustomCaracteres2.0\obj\Debug\CustomCaracteres2.0.exe.manifest
+D:\BACKUP Joao\meus arquivos\Escola\CC\CustomCaracteres2.0\CustomCaracteres2.0\obj\Debug\CustomCaracteres2.0.application
+D:\BACKUP Joao\meus arquivos\Escola\CC\CustomCaracteres2.0\CustomCaracteres2.0\obj\Debug\CustomCaracteres2.0.exe
+D:\BACKUP Joao\meus arquivos\Escola\CC\CustomCaracteres2.0\CustomCaracteres2.0\obj\Debug\CustomCaracteres2.0.pdb
